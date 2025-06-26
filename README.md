@@ -32,10 +32,4 @@ Dataset yang digunakan: `personality_datasert.csv`, dengan fitur-fitur sebagai b
   - XGBoost
   - **Stacking Classifier** (gabungan DT + SVM + KNN dengan Logistic Regression sebagai meta-learner)
 
-## 🚀 Cara Menjalankan
-
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/personality-prediction.git
-   cd personality-prediction
 
